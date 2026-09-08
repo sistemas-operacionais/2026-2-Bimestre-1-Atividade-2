@@ -1,33 +1,58 @@
-# Relatório de implementação de linha de execução em Java
+# Relatório de Implementação de Linha de Execução em Java
 
-## Introdução
+## 📌 Introdução
 
-Este relato faz parte do processo avaliativo da disciplina de sistemas operacionas no curso superior em análise e desenvolvimento de sistemas, ofertado na Diretoria acadêmica de gestão e tecnologia da informação no campus natal-central do instituto federal de educação, ciência e tecnologia do rio grande do norte.
+Este relato faz parte do processo avaliativo da disciplina de **Sistemas Operacionais** no curso superior de **Tecnologia em Análise e Desenvolvimento de Sistemas**, ofertado pela **Diretoria Acadêmica de Gestão e Tecnologia da Informação** do **Campus Natal-Central** do **Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN)**.
 
-Tem como objetivo principal relatar como implementar linhas de execução na linguagem Java.
+O objetivo principal deste trabalho é relatar e demonstrar a implementação de linhas de execução (*threads*) na linguagem Java.
 
-O grupo de trabalho foi formado por Guilherme Silva, Maria Clara e José Vine.
+### 👥 Equipe de Desenvolvimento
+* Guilherme Silva
+* Maria Clara
+* José Vine
 
-## Implementando múltiplas linhas de execução em Java
+---
 
-### Informações gerais sobre Java
+## ⚙️ Implementando Múltiplas Linhas de Execução em Java
 
-FIXME
-> qual o objetivo e o paradgima da linguagem? O principal Objetivo da linguagem é você escrever o seu código uma única vez e poder usa-lo em qualquer lugar, já para seu paradigma, nota-se um uso predominante em Programação Orientada a Objetos (POO)
-> esta disponível onde? O java está disponível para computadores, servidores, nuvem e em vários sistemas operacionais e plataformas. E você pode baixa-lo a partir do seguinte link: https://www.java.com/pt-br/download/manual.jsp
+### 💡 Informações Gerais sobre o Java
 
-### Criando linhas de execução
+#### 🎯 Objetivo e Paradigma
+O principal objetivo do **Java** é a portabilidade — encapsulada pelo famoso lema *"Write Once, Run Anywhere"* (Escreva uma vez, execute em qualquer lugar). Isso significa que o código compilado gera um *bytecode* que pode ser executado em qualquer dispositivo ou sistema operacional que possua uma Máquina Virtual Java (JVM) instalada, sem a necessidade de recompilação.
 
-Inicialmente, foi um processo difícil, entretanto, graças ao nosso companheiro Jose Vine esse processo acabou sendo menos duro e ardo, também utilizamos o auxilio de inteligência artificial para fazer correções em trechos do código dos quais não conseguimos perceber erros. Após estes pequenos ajustes o trabalho por sua vez se tornou mais fácil e divertido de se fazer.
+Em relação ao paradigma, o Java adota predominantemente a **Programação Orientada a Objetos (POO)**, promovendo modularidade, reuso de código e facilidade de manutenção por meio de conceitos como classes, objetos, herança e encapsulamento.
 
-### Passando valores para linhas de execução
+#### 💻 Disponibilidade e Instalação
+O Java é uma plataforma versátil e altamente escalável, disponível para:
+* **Sistemas Operacionais:** Windows, Linux, macOS e Unix.
+* **Ambientes de Execução:** Computadores pessoais, servidores locais, infraestruturas em nuvem e dispositivos embarcados.
 
-Atribuir os valores nas threads acabou sendo um ótimo desafio para alguns de nós que somos iniciantes tanto na programação quanto na linguagem Java, entretanto, após conseguirmos começar a compreender a lógica de por trás da programação em Java, ver os mesmos processos sendo executados em python e tentar refaze-los algumas vezes em java, o processo acabou ficando cada vez mais eficiente e otimizado.   
+Para baixar e instalar o ambiente de execução ou o kit de desenvolvimento (JDK), acesse o link oficial:  
+👉 [Download do Java (Site Oficial)](https://www.java.com/pt-br/download/manual.jsp)
 
-### Múltiplas linhas de execução
+---
 
-fazer múltiplas linhas no java foi definitivamente a parte mais difícil do trabalho, por ser uma linguagem que ainda não temos tanta experiência acabou tornando nosso processo um pouco difícil, saber o que estava errado no código, por que dele não estar sendo compilado corretamente, saber fechar as { } (chaves) na hora certa sem acabar alterando toda a estrutura de uma parte do código foi definitivamente um grande desafio, entretanto, após conseguirmos completar tudo corretamente e por o código em execução final, foi incrivelmente recompensador ver e saber que ele estava funcionando perfeitamente e do jeito que queriamos que ele realmente funcionasse.   
+## 🛠️ Relato de Desenvolvimento e Desafios
 
-## Considerações finais
+### 🧵 Criando Linhas de Execução
+Inicialmente, o processo apresentou desafios devido ao pouco conhecimento prévio da equipe com a linguagem. No entanto, a colaboração do integrante José Vine, que já possuía experiência prévia com Java, facilitou bastante a curva de aprendizado. 
 
-Diante de todo este trabalho duro e esforço para fazer este trabalho, queremos carinhosamente agradecer ao nosso professor, Leonardo Minora pela oportunidade de fazer estes testes utilizando uma nova linguagem, o conhecimento adquirido no processo será extremamente valioso, seja para nossos currículos ou para nossa própria vida. Começar a aprender uma nova linguagem de programação é sempre um grande desafio, mas graças a está pratica, podemos fazer isso de uma maneira mais divertida e descontraida, esperamos ter mais oportunidades como essa em breve. 
+Também contamos com o auxílio de ferramentas de Inteligência Artificial para identificar e corrigir erros sutis no código que não estávamos conseguindo localizar. Após esses ajustes pontuais, o desenvolvimento tornou-se mais ágil e fluido.
+
+### 📥 Passando Valores para Linhas de Execução
+Atribuir valores e parâmetros às *Threads* foi um desafio enriquecedor para os membros iniciantes na linguagem. O processo exigiu compreender a lógica da aplicação antes de traduzi-la para a sintaxe do Java. 
+
+Para estruturar a solução, tomamos como referência inicial a codificação em Python e, a partir dela, realizamos a reescrita e adaptação para o Java. Embora o progresso tenha sido gradual no início, o fluxo de trabalho tornou-se mais eficiente e otimizado com a prática.
+
+### 🔄 Múltiplas Linhas de Execução
+A criação e o gerenciamento de múltiplas *Threads* simultâneas foi a etapa mais complexa do projeto. A falta de familiaridade com a sintaxe exigiu atenção redobrada na depuração do código, no tratamento de erros de compilação e no controle de escopo (como o fechamento correto de blocos e chaves `{ }`) para não comprometer a estrutura do programa.
+
+Apesar das dificuldades enfrentadas ao longo do processo, ver a aplicação ser compilada e executada perfeitamente de acordo com os requisitos planejados foi extremamente gratificante.
+
+## 🏁 Considerações Finais
+
+A realização deste trabalho proporcionou um aprendizado prático e aprofundado sobre o funcionamento e o gerenciamento de linhas de execução (*threads*) na linguagem Java. Apesar das dificuldades iniciais com a sintaxe, a estruturação de blocos de código e a transição lógica a partir de outras linguagens, a colaboração em equipe e o uso estratégico de ferramentas de apoio foram fundamentais para superar os obstáculos técnicos.
+
+Como resultado, a equipe não apenas compreendeu os conceitos teóricos de concorrência e paralelismo abordados na disciplina de **Sistemas Operacionais**, mas também adquiriu autonomia na aplicação prática desses conceitos em um ambiente de desenvolvimento real. A execução bem-sucedida do projeto consolida uma base sólida para o aprendizado de arquiteturas de software mais complexas ao longo do curso de **Tecnologia em Análise e Desenvolvimento de Sistemas**.
+
+
