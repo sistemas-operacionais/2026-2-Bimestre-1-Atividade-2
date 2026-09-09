@@ -39,3 +39,12 @@ public class Main {
                 Thread.currentThread().interrupt();
             }
         }
+        long fim = System.currentTimeMillis();
+        double tempoTotal = (fim - inicio) / 1000.0;
+
+
+        System.out.println("\nTodos os trabalhadores terminaram!");
+        System.out.printf("Tempo total: %.2fs%n", tempoTotal);
+        System.out.println("(Se fosse sequencial, levaria ~10s)");
+    }
+}
