@@ -20,7 +20,7 @@
 | Time | Linguagem | Repositório |
 | ---- | --------- | ----------- |
 | jadson<br>luiz<br>arkângelo | Typescript | FIXME |
-| maria clara<br>guilherme<br>josé vine | Java | FIXME |
+| maria clara<br>guilherme<br>josé vine | Java | https://github.com/cruzguilherme1-rpg/FORK_2026-2-Bimestre-1-Atividade-2.git |
 | arthur vinicius<br>arthur lima<br>caio lucas | C++ | FIXME |
 | rio<br>wheverthon<br>joão victor | Go | FIXME |
 | pedro mesias<br>paulo cesar | C# | FIXME |
