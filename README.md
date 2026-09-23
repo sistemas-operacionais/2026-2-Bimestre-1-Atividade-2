@@ -24,7 +24,7 @@
 | Clojure    | Geovanna Negreiros de Araújo<br>Haama Kethelen Souza Reis<br>Lucas Natanael de Andrade Mota    | FIXME |
 | Elixir     | Daniel Araujo Azevedo<br>Fábio Hudson Gomes de Souza<br>Rafael Duarte da Silva de Brito        | FIXME |
 | F#         | Arthus Santos Aquino<br>João Ricardo Fernandes de Almeida                                      | FIXME |
-| Go         | João Victor Marques Campos<br>Rio Ribeiro da Silva<br>Wheverton Cruz da Silva Filho            | FIXME |
+| Go         | João Victor Marques Campos<br>Rio Ribeiro da Silva<br>Wheverton Cruz da Silva Filho            | [Go](https://github.com/rioribeiro/2026-2-Bimestre-1-Atividade-2) |
 | Java       | Guilherme da Silva Cruz<br>José Vine Nunes Martins Araújo<br>Maria Clara Batista Viana Silva   | FIXME |
 | Kotlin     | Ana Letícia Vidal de Oliveira<br>Iago Vinícius Souza de Sales<br>Valentine Varela              | FIXME |
 | Lua        | Andre Medeiros Silva<br>Denju Gabriel da Silva Lira<br>Lucas Gabryel Silva de Holanda          | FIXME |
