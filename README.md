@@ -20,7 +20,7 @@
 | Linguagem  | Time      | Repositório |
 | ---------- | --------- | ----------- |
 | C#         | Álvaro Luiz Barbalho de Souza Filho<br>Paulo Cesar Moreira da Silva<br>Pedro Messias Dias Neto | FIXME |
-| C++        | Artur Lima Melo<br>Arthur Vinicius Barreto Demetrio<br>Caio Lucas Alves de Oliveira            | FIXME |
+| C++        | Artur Lima Melo<br>Arthur Vinicius Barreto Demetrio<br>Caio Lucas Alves de Oliveira            | [C++](https://github.com/Arthur-Demetrio/2026-2-Bimestre-1-Atividade-2) |
 | Clojure    | Geovanna Negreiros de Araújo<br>Haama Kethelen Souza Reis                                      | FIXME |
 | Elixir     | Daniel Araujo Azevedo<br>Fábio Hudson Gomes de Souza<br>Rafael Duarte da Silva de Brito        | FIXME |
 | F#         | Arthus Santos Aquino<br>João Ricardo Fernandes de Almeida                                      | FIXME |
