@@ -30,4 +30,5 @@
 | Lua        | Andre Medeiros Silva<br>Denju Gabriel da Silva Lira<br>Lucas Gabryel Silva de Holanda          | FIXME |
 | Rust       | Julia Rafaelly Siqueira de Lima<br>Lidia Rebeka da Silva Fernandes<br>Lyonara da Silva Camelo  | FIXME |
 | Typescript | Arkângelo Maycon Ashley da Silva Barbosa<br>Jadson de Medeiros Souza<br>Luiz Rodrigues da Silveira Neto | FIXME |
+| Python     | [Leonardo Ataide Minora](https://github.com/leonardo-minora/) | [github](https://github.com/leonardo-minora/2026-2-Bimestre-1-Atividade-2/) |
 
