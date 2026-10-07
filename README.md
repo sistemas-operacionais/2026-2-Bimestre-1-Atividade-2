@@ -28,6 +28,6 @@
 | Java       | Guilherme da Silva Cruz<br>José Vine Nunes Martins Araújo<br>Maria Clara Batista Viana Silva   | FIXME |
 | Kotlin     | [Ana Letícia Vidal de Oliveira](https://github.com/oliveiravidal-blip)<br>[Iago Vinícius Souza de Sales](https://github.com/Iago-pixel)<br>[Valentine Varela](https://github.com/valentinev14) | [Repositório 1° Bim-atividade-2-Kotlin](https://github.com/valentinev14/2026-2-Bimestre-1-Atividade-2.git) |
 | Lua        | Andre Medeiros Silva<br>Denju Gabriel da Silva Lira<br>Lucas Gabryel Silva de Holanda          | FIXME |
-| Rust       | Julia Rafaelly Siqueira de Lima<br>Lidia Rebeka da Silva Fernandes<br>Lyonara da Silva Camelo  | FIXME |
+| Rust       | [Julia Rafaelly Siqueira de Lima](https://github.com/JuliaRafaellySdL/)<br>[Lidia Rebeka da Silva Fernandes](https://github.com/rebekafernandes-cyber/)<br>[Lyonara da Silva Camelo](https://github.com/Lyonara/2026-2-Bimestre-1-Atividade-2)  | [Repositório 1°Bim-atividade-2-rust](https://github.com/JuliaRafaellySdL/2026-2-Bimestre-1-Atividade-2-Rust) |
 | Typescript | Arkângelo Maycon Ashley da Silva Barbosa<br>Jadson de Medeiros Souza<br>Luiz Rodrigues da Silveira Neto | FIXME |
 
